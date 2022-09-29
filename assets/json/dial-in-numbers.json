@@ -1,0 +1,52 @@
+{
+    "dial_in_numbers":[
+       {
+          "country":"at",
+          "number":"+43 274 230 728"
+       },
+       {
+          "country":"de",
+          "number":"+49 891 250 190 7"
+       },
+       {
+          "country":"es",
+          "number":"+34 910 470 019"
+       },
+       {
+          "country":"fr",
+          "number":"+33 180 208 901"
+       },
+       {
+          "country":"ir",
+          "number":"+35 312 649 905"
+       },
+       {
+          "country":"it",
+          "number":"+39 023 056 771 5"
+       },
+       {
+          "country":"nl",
+          "number":"+31 793 229 958"
+       },
+       {
+          "country":"pl",
+          "number":"+48 222 464 984"
+       },
+       {
+          "country":"pt",
+          "number":"+35 121 123 016 2"
+       },
+       {
+          "country":"ro",
+          "number":"+40 317 801 126"
+       },
+       {
+          "country":"si",
+          "number":"+38 617 776 392"
+       },
+       {
+          "country":"uk",
+          "number":"+44 208 017 106 7"
+       }
+    ]
+ }

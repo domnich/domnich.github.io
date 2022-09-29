@@ -1,0 +1,4 @@
+<svg id="headset-solid-black" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Frame" width="24" height="24" fill="none"/>
+  <path id="Icon" d="M40,22.154h-.075a7,7,0,0,0-13.85,0H26a2,2,0,0,0-2,2v2.125a2,2,0,0,0,2,2h.5a1.5,1.5,0,0,0,1.5-1.5V23.154a5,5,0,1,1,10,0v6a5,5,0,0,1-5,5,1,1,0,0,0,0,2,7,7,0,0,0,7-7v-.875a2,2,0,0,0,2-2V24.154A2,2,0,0,0,40,22.154Z" transform="translate(-21 -14.154)"/>
+</svg>
